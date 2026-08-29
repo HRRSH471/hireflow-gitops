@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: ghcr.io/hrrsh471/hireflow-frontend:9aaf56c87a088b464520a87259623d804518b348
+          image: ghcr.io/hrrsh471/hireflow-frontend:02989a180a3c4c8819b0c8b24e688dbcb2cebff9
           imagePullPolicy: IfNotPresent
 
           ports:
